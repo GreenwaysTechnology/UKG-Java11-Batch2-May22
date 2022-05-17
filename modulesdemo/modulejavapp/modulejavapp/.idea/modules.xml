@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greeter/greeter.iml" filepath="$PROJECT_DIR$/greeter/greeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulejavapp.iml" filepath="$PROJECT_DIR$/modulejavapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapp/myapp.iml" filepath="$PROJECT_DIR$/myapp/myapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myutil/myutil.iml" filepath="$PROJECT_DIR$/myutil/myutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repository/repository.iml" filepath="$PROJECT_DIR$/repository/repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/welcome/welcome.iml" filepath="$PROJECT_DIR$/welcome/welcome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/welcomeconsumer/welcomeconsumer.iml" filepath="$PROJECT_DIR$/welcomeconsumer/welcomeconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/welcomeparent/welcomeparent.iml" filepath="$PROJECT_DIR$/welcomeparent/welcomeparent.iml" />
+    </modules>
+  </component>
+</project>

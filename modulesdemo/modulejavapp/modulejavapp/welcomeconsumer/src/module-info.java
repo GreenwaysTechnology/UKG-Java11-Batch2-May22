@@ -1,0 +1,3 @@
+module welcomeconsumer {
+    requires welcome;
+}
