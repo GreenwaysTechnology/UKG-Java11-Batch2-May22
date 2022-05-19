@@ -1,0 +1,28 @@
+
+Java Deployment
+
+1.JVM based deployment
+
+YOu need jvm
+
+App.class => feed on to the JVM=>Starts your code.
+             in->c1-c2
+             in->c1-graal
+
+App.class + aot file(helper file)
+            .class+so => in -> native -c1-c2(graal)
+
+2.Native based deployment
+
+Aot+Grall=>native generator (native-image)
+
+App.class/jar => native generator ===> platform binary(.exe / fileName)
+
+  >App.exe
+  >./App
+2.2. Container optimized
+
+
+
+
+
